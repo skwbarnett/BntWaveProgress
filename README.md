@@ -1,7 +1,7 @@
 # BntLoopProgress
 
-![preview](/preview/src_00)
-![preview](/preview/src_01)
+![preview](/preview/src_00.jpg)
+![preview](/preview/src_01.jpg)
 
 ``` c#
 可配置，环形渐变色 Progress
