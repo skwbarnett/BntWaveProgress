@@ -4,7 +4,7 @@
 ![preview](/preview/src_01.jpg)
 
 ``` c#
-可配置，波纹渐变色 Progress
+可配置，波纹 Progress
 利用CADisplaylink刷新特性 和 sin cos正余弦函数算法，绘制波形动画
 ```
 ```
