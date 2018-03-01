@@ -60,6 +60,7 @@
     button.backgroundColor = [UIColor colorWithRed:1.00 green:0.40 blue:0.53 alpha:1.00];
     button.frame = CGRectMake(150, 600, 80, 30);
     [button addTarget:self action:@selector(buttonClick) forControlEvents:UIControlEventTouchUpInside];
+    [button setTitle:@"percent" forState:UIControlStateNormal];
     [self.view addSubview:button];
 }
 
