@@ -1,6 +1,7 @@
 # BntLoopProgress
 
-![preview](/preview/Screen.png)
+![preview](/preview/src_00)
+![preview](/preview/src_01)
 
 ``` c#
 可配置，环形渐变色 Progress
